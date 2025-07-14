@@ -12,7 +12,7 @@ Data for our constructed stabilizer matrices for the NISQ Error Correction Codes
 
 	iii) GB#4: GB_512_174_w9_21_d7
 
-	###General info: ``Hz" and ``Hx" are the binary parity-check matrices for the GB codes, which satisfy [1, eq. (1)].
+	### General info: ``Hz" and ``Hx" are the binary parity-check matrices for the GB codes, which satisfy [1, eq. (1)].
 	
 ## References.
 
