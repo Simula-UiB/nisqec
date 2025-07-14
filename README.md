@@ -7,7 +7,9 @@ Folders:
 - GB_MMM: GB codes constructed via [a], which are simulated and compared in [1].
 
 	i) GB#2: GB_392_48_w13_7_d13
+
 	ii) GB#3: GB_512_174_w8_15_d6
+
 	iii) GB#4: GB_512_174_w9_21_d7
 
 
