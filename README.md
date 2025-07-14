@@ -20,4 +20,4 @@ codes for quantum error correction,” IEEE Trans. Inf. Theory, vol. 50,
 no. 10, pp. 2315–2330, Oct. 2004.
 
 [1]. O. Å. Mostad, H.-Y. Lin, E. Rosnes, D.-S. Lee, and C.-Y. Lai, “Advancing finite-length quantum error correction using generalized bicycle
-codes,” May 2025, arXiv:2505.06157v1 [quant-ph].
+codes,” May 2025, arXiv:2505.06157v1 [quant-ph]. https://doi.org/10.48550/arXiv.2505.06157
