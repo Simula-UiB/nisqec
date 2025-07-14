@@ -1,6 +1,6 @@
 # nisqec 
 
-Data for Our Constructed Stabilizer Matrices for the NISQ Era
+Data for our constructed stabilizer matrices for the NISQ Error Correction Codes
 
 Folders:
 
