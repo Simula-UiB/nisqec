@@ -48,13 +48,13 @@ Theory, vol. 55, no. 9, pp. 4167–4178, Sep. 2009.
 
 [c] E. Rosnes, Ø. Ytrehus, M. A. Ambroze, and M. Tomlinson, “Addendum
 to “An efficient algorithm to find all small-size stopping sets of low-
-density parity-check matrices”,” IEEE Trans. Inf. Theory, vol. 58, no. 1,
+density parity-check matrices”, IEEE Trans. Inf. Theory, vol. 58, no. 1,
 pp. 164–171, Jan. 2012.
 
-[1] O. Å. Mostad, E. Rosnes and H. -Y. Lin, "Asymptotically Good Generalized Quantum Tanner Codes," in IEEE Journal on Selected Areas in Information Theory, vol. 6, pp. 367-382, 2025, doi: 10.1109/JSAIT.2025.3594310.
+[1] O. Å. Mostad, E. Rosnes and H.-Y. Lin, "Asymptotically Good Generalized Quantum Tanner Codes," in IEEE Journal on Selected Areas in Information Theory, vol. 6, pp. 367-382, 2025, doi: 10.1109/JSAIT.2025.3594310.
 
-[2]. O. Å. Mostad, H. -Y. Lin, E. Rosnes, D. -S. Lee and C. -Y. Lai, "Advancing Finite-Length Quantum Error Correction Using Generalized Bicycle Codes," 2025 13th International Symposium on Topics in Coding (ISTC), Los Angeles, CA, USA, 2025, pp. 1-5, doi: 10.1109/ISTC65386.2025.11154497, <a href="https://doi.org/10.48550/arXiv.2505.06157" target="_blank">arXiv:2505.06157v1 [quant-ph]</a>.
+[2]. O. Å. Mostad, H.-Y. Lin, E. Rosnes, D.-S. Lee, and C.-Y. Lai, "Advancing Finite-Length Quantum Error Correction Using Generalized Bicycle Codes," 2025 13th International Symposium on Topics in Coding (ISTC), Los Angeles, CA, USA, 2025, pp. 1-5, doi: 10.1109/ISTC65386.2025.11154497, <a target="_blank" href="https://doi.org/10.48550/arXiv.2505.06157">arXiv:2505.06157v1 [quant-ph]</a>.
 
-[3]. O. Å. Mostad, E. Rosnes and H. -Y. Lin, "Improved Construction of Generalized Quantum Tanner Codes," 2025 13th International Symposium on Topics in Coding (ISTC), Los Angeles, CA, USA, 2025, pp. 1-5, doi: 10.1109/ISTC65386.2025.11154489.
+[3]. O. Å. Mostad, E. Rosnes, and H.-Y. Lin, "Improved Construction of Generalized Quantum Tanner Codes," 2025 13th International Symposium on Topics in Coding (ISTC), Los Angeles, CA, USA, 2025, pp. 1-5, doi: 10.1109/ISTC65386.2025.11154489.
 
-[4]. O. Å. Mostad, H. -Y. Lin, E. Rosnes, "Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes," March 2026, <a href="https://doi.org/10.48550/arXiv.2603.05486" target="_blank">arXiv:2603.05486 [quant-ph]</a>.
+[4]. O. Å. Mostad, E. Rosnes, and H.-Y. Lin, "Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes," March 2026, <a target="_blank" href="https://doi.org/10.48550/arXiv.2603.05486">arXiv:2603.05486 [quant-ph]</a>.
