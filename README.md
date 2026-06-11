@@ -1,7 +1,7 @@
 # nisqec 
 
 Table of our constructed stabilizer matrices for NISQ Error Correction Codes.
-For CSS codes, ``Hz" and ``Hx" are binary parity-check matrices defining a CSS code.
+For CSS codes, "Hz" and "Hx" are binary parity-check matrices defining a CSS code.
 Minimum distances are calculated using the classical algorithm of [b], [c].
 	
 ## Table:
