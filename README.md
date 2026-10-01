@@ -65,4 +65,4 @@ pp. 164–171, Jan. 2012.
 
 [4]. O. Å. Mostad, E. Rosnes, and H.-Y. Lin, "Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes," March 2026, <a target="_blank" href="https://doi.org/10.48550/arXiv.2603.05486">arXiv:2603.05486v1 [quant-ph]</a>.
 
-[5]. E. Durazo Rocha, O. Å. Mostad, H.-Y. Lin, and E. Rosnes, "Local Automorphism-Aware Syndrome Compilation for General Quantum LDPC Codes," October 2026.
+[5]. E. Durazo Rocha, O. Å. Mostad, H.-Y. Lin, and E. Rosnes, "Local Automorphism-Aware Syndrome Compilation for General Quantum LDPC Codes," October 2026, <a target="_blank" href="https://arxiv.org/abs/2609.40319">arXiv:2609.40319 [quant-ph]</a>.
