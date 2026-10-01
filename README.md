@@ -8,6 +8,7 @@ Minimum distances are calculated using the classical algorithm of [b], [c].
 
 | n 	| k 	| d 	| Average row weight | Row weight range | Construction | PCM   | Paper(s) |
 | :---: | :---: | :---: | :---: 			 | :---: 			| :---: 	   | :---: | :---:    |
+| 45 	| 7 	| 4 	| 6 				| 6 				| QT		| [PCM](QT/Tan2TNCb_45_7_35)		| [4], [5] |
 | 144 	| 12	| 12 	| 8 				| 8 				| GB_PK		| [PCM](GB_PK/GB_144_12_w8_37)		| [2], [4] |
 | 150 	| 62 	| ? 	| 10 				| 10 				| QT		| [PCM](QT/GenTanner_150_62_1460)	| [3] |
 | 168 	| 76 	| 4 	| 12 				| 12 				| GB_MMM	| [PCM](GB_MMM/GB_168_76_w12_17)	| [3] |
@@ -16,6 +17,7 @@ Minimum distances are calculated using the classical algorithm of [b], [c].
 | 180 	| 26 	| 6 	| 6 				| 6 				| GQT		| [PCM](GQT/GenTannerSch_180_26_2173)| [1] |
 | 180 	| 26 	| 7 	| 8 				| 8 				| GB_PK		| [PCM](GB_PK/GB_180_26_19)			| [1] |
 | 180 	| 28 	| 5 	| 6 				| 6 				| QT		| [PCM](QT/GenTanner_180_28_14)		| [1] |
+| 325 	| 14 	| 9 	| 7 				| 6 - 9 			| QT		| [PCM](QT/Tan2TNCb_325_14_5)		| [4], [5] |
 | 392 	| 32 	| 14 	| 12 				| 12 				| GB_PK		| [PCM](GB_PK/GB_392_32_w12_31)		| [2] |
 | 392 	| 32 	| 12 	| 13 				| 12 - 16 			| QT		| [PCM](QT/GenTanner_392_32_1523)	| [2] |
 | 392 	| 48 	| 12 	| 13 				| 12 - 16 			| QT		| [PCM](QT/GenTanner_392_48_1462)	| [2] |
@@ -28,9 +30,13 @@ Minimum distances are calculated using the classical algorithm of [b], [c].
 | 504 	| 223 	| 4 	| 12 				| 12 				| GQT		| [PCM](GQT/GenTannerLoc_504_223_47)| [3] |
 | 512 	| 174 	| 6 	| 8 				| 8 				| GB_MMM	| [PCM](GB_MMM/GB_512_174_w8_15_d6) | [2], [3] |
 | 512 	| 174 	| 7 	| 9 				| 9 				| GB_MMM	| [PCM](GB_MMM/GB_512_174_w9_21_d7) | [2], [3] |
+| 666 	| 4 	| $\geq 13$ | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_4_65)		| [4], [5] |
+| 666 	| 8 	| $\geq 13$ | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_8_68)		| [4], [5] |
 | 686 	| 28 	| 14 	| 13 				| 12 - 16 			| GQT		| [PCM](GQT/GenTannerSch_686_28_2017)| [1], [4] |
 | 686 	| 34 	| 13 	| 13 				| 12 - 16 			| QT		| [PCM](QT/GenTanner_686_34_1306)	| [1], [4] |
 | 688 	| 30 	| $\geq 19$ 	| 16 		| 16	 			| GB_PK		| [PCM](GB_PK/GB_688_30_w16_16)		| [1], [4] |
+| 1225 	| 32 	| $\geq 13$ 	| 12		| 12 				| QT		| [PCM](QT/Tan2TNCb_1225_32_77)	| [4], [5] |
+| 1225 	| 225 	| 6 	| 8.8 				| 8 - 12 			| QT		| [PCM](QT/Tan2TNCb_1225_225_76)	| [4], [5] |
 
 
 When citing, please refer to the paper introducing the code.
@@ -58,3 +64,5 @@ pp. 164–171, Jan. 2012.
 [3]. O. Å. Mostad, E. Rosnes, and H.-Y. Lin, "Improved Construction of Generalized Quantum Tanner Codes," 2025 13th International Symposium on Topics in Coding (ISTC), Los Angeles, CA, USA, 2025, pp. 1-5, doi: 10.1109/ISTC65386.2025.11154489.
 
 [4]. O. Å. Mostad, E. Rosnes, and H.-Y. Lin, "Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes," March 2026, <a target="_blank" href="https://doi.org/10.48550/arXiv.2603.05486">arXiv:2603.05486v1 [quant-ph]</a>.
+
+[5]. E. Durazo Rocha, O. Å. Mostad, H.-Y. Lin, and E. Rosnes, "Local Automorphism-Aware Syndrome Compilation for General Quantum LDPC Codes," October 2026.
