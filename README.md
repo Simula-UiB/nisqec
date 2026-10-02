@@ -30,12 +30,12 @@ Minimum distances are calculated using the classical algorithm of [b], [c].
 | 504 	| 223 	| 4 	| 12 				| 12 				| GQT		| [PCM](GQT/GenTannerLoc_504_223_47)| [3] |
 | 512 	| 174 	| 6 	| 8 				| 8 				| GB_MMM	| [PCM](GB_MMM/GB_512_174_w8_15_d6) | [2], [3] |
 | 512 	| 174 	| 7 	| 9 				| 9 				| GB_MMM	| [PCM](GB_MMM/GB_512_174_w9_21_d7) | [2], [3] |
-| 666 	| 4 	| $\geq 13$ | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_4_65)		| [4], [5] |
-| 666 	| 8 	| $\geq 13$ | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_8_68)		| [4], [5] |
+| 666 	| 4 	| $\geq$ 13 | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_4_65)		| [4], [5] |
+| 666 	| 8 	| $\geq$ 13 | 9 			| 9 				| QT		| [PCM](QT/Tan2TNCb_666_8_68)		| [4], [5] |
 | 686 	| 28 	| 14 	| 13 				| 12 - 16 			| GQT		| [PCM](GQT/GenTannerSch_686_28_2017)| [1], [4] |
 | 686 	| 34 	| 13 	| 13 				| 12 - 16 			| QT		| [PCM](QT/GenTanner_686_34_1306)	| [1], [4] |
-| 688 	| 30 	| $\geq 19$ 	| 16 		| 16	 			| GB_PK		| [PCM](GB_PK/GB_688_30_w16_16)		| [1], [4] |
-| 1225 	| 32 	| $\geq 13$ 	| 12		| 12 				| QT		| [PCM](QT/Tan2TNCb_1225_32_77)	| [4], [5] |
+| 688 	| 30 	| $\geq$ 19 	| 16 		| 16	 			| GB_PK		| [PCM](GB_PK/GB_688_30_w16_16)		| [1], [4] |
+| 1225 	| 32 	| $\geq$ 13 	| 12		| 12 				| QT		| [PCM](QT/Tan2TNCb_1225_32_77)	| [4], [5] |
 | 1225 	| 225 	| 6 	| 8.8 				| 8 - 12 			| QT		| [PCM](QT/Tan2TNCb_1225_225_76)	| [4], [5] |
 
 
