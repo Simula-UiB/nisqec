@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these matrices, please cite this repository and the paper introducing the code (see README.md)."
+title: "NISQEC: Noisy Intermediate-Scale Quantum Error Correction"
+abstract: "Parity-check matrices of constructed stabilizer codes for noisy intermediate-scale quantum error correction, including generalized quantum Tanner, quantum Tanner and generalized bicycle codes."
+type: dataset
+authors:
+  - family-names: "Durazo Rocha"
+    given-names: "Eugenio"
+    affiliation: "Simula UiB"
+  - family-names: "Mostad"
+    given-names: "Olai Å."
+    affiliation: "Simula UiB"
+  - family-names: "Lin"
+    given-names: "Hsuan-Yin"
+    affiliation: "Simula UiB"
+  - family-names: "Rosnes"
+    given-names: "Eirik"
+    affiliation: "Simula UiB"
+repository-code: "https://github.com/Simula-UiB/nisqec"
+url: "https://github.com/Simula-UiB/nisqec"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-10-14"
+keywords:
+  - quantum error correction
+  - quantum LDPC codes
+  - quantum Tanner codes
+  - generalized bicycle codes
+  - parity-check matrices

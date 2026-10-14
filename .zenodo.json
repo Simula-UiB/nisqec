@@ -1,0 +1,27 @@
+{
+  "title": "NISQEC: Noisy Intermediate-Scale Quantum Error Correction",
+  "upload_type": "dataset",
+  "description": "<p>Parity-check matrices of constructed stabilizer codes for noisy intermediate-scale quantum error correction, including generalized quantum Tanner, quantum Tanner and generalized bicycle codes. For CSS codes, Hx and Hz are binary parity-check matrices. See README.md for the table of codes and the papers introducing them.</p>",
+  "creators": [
+    {"name": "Durazo Rocha, Eugenio", "affiliation": "Simula UiB"},
+    {"name": "Mostad, Olai Å.", "affiliation": "Simula UiB"},
+    {"name": "Lin, Hsuan-Yin", "affiliation": "Simula UiB"},
+    {"name": "Rosnes, Eirik", "affiliation": "Simula UiB"}
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "keywords": [
+    "quantum error correction",
+    "quantum LDPC codes",
+    "quantum Tanner codes",
+    "generalized bicycle codes",
+    "parity-check matrices"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1109/JSAIT.2025.3594310",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}
