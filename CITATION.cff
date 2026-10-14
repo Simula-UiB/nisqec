@@ -16,6 +16,7 @@ authors:
   - family-names: "Rosnes"
     given-names: "Eirik"
     affiliation: "Simula UiB"
+doi: "10.5281/zenodo.23378283"
 repository-code: "https://github.com/Simula-UiB/nisqec"
 url: "https://github.com/Simula-UiB/nisqec"
 license: CC-BY-4.0
