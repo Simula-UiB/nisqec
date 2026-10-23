@@ -10,7 +10,10 @@ Minimum distances are calculated using the classical algorithm of [b], [c].
 
 | n 	| k 	| d 	| Average row weight | Row weight range | Construction | PCM   | Paper(s) |
 | :---: | :---: | :---: | :---: 			 | :---: 			| :---: 	   | :---: | :---:    |
+| 10 	| 2 	| 3 	| 4 				| 4 				| QT		| [PCM](QT/Tan2TNCb_10_2_32)		| [4] |
 | 45 	| 7 	| 4 	| 6 				| 6 				| QT		| [PCM](QT/Tan2TNCb_45_7_80)		| [4], [5] |
+| 136 	| 4 	| 4 	| 6.25 				| 4 - 9 			| QT		| [PCM](QT/Tan2TNCb_136_4_81)		| [4] |
+| 136 	| 38 	| 4 	| 8 				| 8 				| QT		| [PCM](QT/Tan2TNCb_136_38_82)		| [4] |
 | 144 	| 12	| 12 	| 8 				| 8 				| GB_PK		| [PCM](GB_PK/GB_144_12_w8_37)		| [2], [4] |
 | 150 	| 62 	| ? 	| 10 				| 10 				| QT		| [PCM](QT/GenTanner_150_62_1460)	| [3] |
 | 168 	| 76 	| 4 	| 12 				| 12 				| GB_MMM	| [PCM](GB_MMM/GB_168_76_w12_17)	| [3] |
